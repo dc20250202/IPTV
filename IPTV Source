@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 ,TVBS 新聞台HD
+http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+#EXTINF:-1 ,非凡新聞台HD
+http://108.181.20.197/livehttpplay?channel_id=20034
+#EXTINF:-1 ,壹新聞NEXTTV HD
+http://108.181.20.197/livehttpplay?channel_id=20028
+
+#EXTINF:-1 ,EBC東森新聞HD
+http://108.181.20.197/livehttpplay?channel_id=20082
+#EXTINF:-1 ,EBC東森財經新聞HD
+http://108.181.20.197/livehttpplay?channel_id=20078
+#EXTINF:-1 ,NOWnews今日新聞
+http://108.181.20.197/livehttpplay?channel_id=20043
+#EXTINF:-1 ,Now新聞台
+http://108.181.20.197/livehttpplay?channel_id=20041
+#EXTINF:-1 ,三立新聞
+http://108.181.20.197/livehttpplay?channel_id=10126
+#EXTINF:-1 ,民視新聞台
+http://108.181.20.197/livehttpplay?channel_id=20097
+#EXTINF:-1 ,台視HD
+http://108.181.20.197/livehttpplay?channel_id=20076
+#EXTINF:-1 ,中視HD
+http://108.181.20.197/livehttpplay?channel_id=20088
+#EXTINF:-1 ,華視HD
+http://108.181.20.197/livehttpplay?channel_id=20086
+#EXTINF:-1 ,公視
+http://108.181.20.197/livehttpplay?channel_id=20087
+#EXTINF:-1 ,HOY資訊台
+http://108.181.20.197/livehttpplay?channel_id=20191
+
+#EXTINF:-1 ,緯來體育HD
+http://108.181.20.197/livehttpplay?channel_id=20120
+#EXTINF:-1 ,緯來戲劇HD
+http://108.181.20.197/livehttpplay?channel_id=20200
+#EXTINF:-1 ,緯來育樂HD
+http://108.181.20.197/livehttpplay?channel_id=20202
+#EXTINF:-1 ,緯來日本
+http://108.181.20.197/livehttpplay?channel_id=20303
+#EXTINF:-1 ,緯來精采
+http://61.221.215.25:8800/hls/48/index.m3u8?txiptv&playlive
+
+
+
+#EXTINF:-1 ,ELTA體育2台
+http://108.181.20.197/livehttpplay?channel_id=20107
+
+#EXTINF:-1 ,DANZ1
+http://108.181.20.197/livehttpplay?channel_id=10104
+#EXTINF:-1 ,DANZ2
+http://108.181.20.197/livehttpplay?channel_id=10105
+
+#EXTINF:-1 ,TVBS歡樂台HD
+http://108.181.20.197/livehttpplay?channel_id=20105
+#EXTINF:-1 ,TVBS歡樂台HD
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 ,TVBS精彩台HD
+http://108.181.20.197/livehttpplay?channel_id=20136
+#EXTINF:-1 ,韓國TVB
+https://cdn.163189.xyz/live/tvbp/stream.m3u8
+#EXTINF:-1 ,民視
+http://108.181.20.197/livehttpplay?channel_id=20074
+
+#EXTINF:-1 ,BBC Earth
+http://108.181.20.197/livehttpplay?channel_id=20044
+
+#EXTINF:-1 ,HBO Family
+http://108.181.20.197/livehttpplay?channel_id=20092
+#EXTINF:-1 ,HBO Hits
+http://108.181.20.197/livehttpplay?channel_id=20091
+#EXTINF:-1 ,HBO
+http://108.181.20.197/livehttpplay?channel_id=20093
+#EXTINF:-1 ,HBO ignature
+http://108.181.20.197/livehttpplay?channel_id=20314
+
+#EXTINF:-1 ,國興衛視
+http://108.181.20.197/livehttpplay?channel_id=20164
+
+#EXTINF:-1 ,國家地理頻道
+http://108.181.20.197/livehttpplay?channel_id=20037
+#EXTINF:-1 ,動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8?txiptv&playlive
+
+#EXTINF:-1 ,CCTV4
+http://108.181.20.197/livehttpplay?channel_id=10128
+
+
