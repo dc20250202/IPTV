@@ -1,0 +1,203 @@
+#EXTM3U x-tvg-url="http://diyp.112114.xyz"
+#EXTINF:-1 group-title="日本|综合" tvg-name="NHK G" tvg-logo="https://epg.112114.xyz/logo/NHK G.png" epg-url="http://diyp.112114.xyz",NHK G
+http://vthanh.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="日本テレビ" tvg-logo="https://epg.112114.xyz/logo/日本テレビ.png" epg-url="http://diyp.112114.xyz",日本テレビ
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="テレビ朝日" tvg-logo="https://epg.112114.xyz/logo/テレビ朝日.png" epg-url="http://diyp.112114.xyz",テレビ朝日
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="TBS" tvg-logo="https://epg.112114.xyz/logo/TBS.png" epg-url="http://diyp.112114.xyz",TBS
+http://vthanh.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="テレビ東京" tvg-logo="https://epg.112114.xyz/logo/テレビ東京.png" epg-url="http://diyp.112114.xyz",テレビ東京
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="フジテレビ" tvg-logo="https://epg.112114.xyz/logo/フジテレビ.png" epg-url="http://diyp.112114.xyz",フジテレビ
+http://vthanh.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="NHK (备用)" tvg-logo="https://epg.112114.xyz/logo/NHK (备用).png" epg-url="http://diyp.112114.xyz",NHK (备用)
+http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="NHK (备用2)" tvg-logo="https://epg.112114.xyz/logo/NHK (备用2).png" epg-url="http://diyp.112114.xyz",NHK (备用2)
+http://vthanh.utako.moe:8080/5eb251b5-95b9-46f8-baff-77526687367f.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="読売テレビ" tvg-logo="https://epg.112114.xyz/logo/読売テレビ.png" epg-url="http://diyp.112114.xyz",読売テレビ
+http://vthanh.utako.moe/ytv/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="ABCテレビ" tvg-logo="https://epg.112114.xyz/logo/ABCテレビ.png" epg-url="http://diyp.112114.xyz",ABCテレビ
+http://vthanh.utako.moe/abc/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="MBS毎日放送" tvg-logo="https://epg.112114.xyz/logo/MBS毎日放送.png" epg-url="http://diyp.112114.xyz",MBS毎日放送
+http://vthanh.utako.moe/mbs/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="関西テレビ" tvg-logo="https://epg.112114.xyz/logo/関西テレビ.png" epg-url="http://diyp.112114.xyz",関西テレビ
+http://vthanh.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="テレビ大阪" tvg-logo="https://epg.112114.xyz/logo/テレビ大阪.png" epg-url="http://diyp.112114.xyz",テレビ大阪
+http://vthanh.utako.moe/tvo/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="Tokyo MX1" tvg-logo="https://epg.112114.xyz/logo/Tokyo MX1.png" epg-url="http://diyp.112114.xyz",Tokyo MX1
+http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="Tokyo MX2" tvg-logo="https://epg.112114.xyz/logo/Tokyo MX2.png" epg-url="http://diyp.112114.xyz",Tokyo MX2
+http://tv.utako.moe/mx2_testsignal/index.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="TBS (备用)" tvg-logo="https://epg.112114.xyz/logo/TBS (备用).png" epg-url="http://diyp.112114.xyz",TBS (备用)
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="日本テレビ (备用)" tvg-logo="https://epg.112114.xyz/logo/日本テレビ (备用).png" epg-url="http://diyp.112114.xyz",日本テレビ (备用)
+https://ntv4.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="フジテレビ (备用)" tvg-logo="https://epg.112114.xyz/logo/フジテレビ (备用).png" epg-url="http://diyp.112114.xyz",フジテレビ (备用)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="フジテレビ (备用2)" tvg-logo="https://epg.112114.xyz/logo/フジテレビ (备用2).png" epg-url="http://diyp.112114.xyz",フジテレビ (备用2)
+https://stream1.freetv.fun/fuji-tv-1.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="NHK (备用3)" tvg-logo="https://epg.112114.xyz/logo/NHK (备用3).png" epg-url="http://diyp.112114.xyz",NHK (备用3)
+https://tinyurl.com/sxd3e9xt
+#EXTINF:-1 group-title="日本|综合" tvg-name="NHK (备用4)" tvg-logo="https://epg.112114.xyz/logo/NHK (备用4).png" epg-url="http://diyp.112114.xyz",NHK (备用4)
+https://tinyurl.com/ykdwu3v5
+#EXTINF:-1 group-title="日本|综合" tvg-name="日本テレビ (备用2)" tvg-logo="https://epg.112114.xyz/logo/日本テレビ (备用2).png" epg-url="http://diyp.112114.xyz",日本テレビ (备用2)
+https://tinyurl.com/3h6udude
+#EXTINF:-1 group-title="日本|综合" tvg-name="TBS (备用2)" tvg-logo="https://epg.112114.xyz/logo/TBS (备用2).png" epg-url="http://diyp.112114.xyz",TBS (备用2)
+https://tinyurl.com/yhv7pzw3
+#EXTINF:-1 group-title="日本|综合" tvg-name="テレビ朝日 (备用)" tvg-logo="https://epg.112114.xyz/logo/テレビ朝日 (备用).png" epg-url="http://diyp.112114.xyz",テレビ朝日 (备用)
+https://tinyurl.com/f6h3me22
+#EXTINF:-1 group-title="日本|综合" tvg-name="NHK (备用5)" tvg-logo="https://epg.112114.xyz/logo/NHK (备用5).png" epg-url="http://diyp.112114.xyz",NHK (备用5)
+https://tinyurl.com/5p6xaa23
+#EXTINF:-1 group-title="日本|综合" tvg-name="テレビX5" tvg-logo="https://epg.112114.xyz/logo/テレビX5.png" epg-url="http://diyp.112114.xyz",テレビX5
+http://main5.mov3.co/hls/main.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="NHK (备用6)" tvg-logo="https://epg.112114.xyz/logo/NHK (备用6).png" epg-url="http://diyp.112114.xyz",NHK (备用6)
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 group-title="日本|综合" tvg-name="NHK (willfonk)" tvg-logo="https://epg.112114.xyz/logo/NHK (willfonk).png" epg-url="http://diyp.112114.xyz",NHK (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="日本テレビ (willfonk)" tvg-logo="https://epg.112114.xyz/logo/日本テレビ (willfonk).png" epg-url="http://diyp.112114.xyz",日本テレビ (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="テレビ朝日 (willfonk)" tvg-logo="https://epg.112114.xyz/logo/テレビ朝日 (willfonk).png" epg-url="http://diyp.112114.xyz",テレビ朝日 (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="TBS (willfonk)" tvg-logo="https://epg.112114.xyz/logo/TBS (willfonk).png" epg-url="http://diyp.112114.xyz",TBS (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="テレビ東京 (willfonk)" tvg-logo="https://epg.112114.xyz/logo/テレビ東京 (willfonk).png" epg-url="http://diyp.112114.xyz",テレビ東京 (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="フジテレビ (willfonk)" tvg-logo="https://epg.112114.xyz/logo/フジテレビ (willfonk).png" epg-url="http://diyp.112114.xyz",フジテレビ (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="NHK総合 (日本放送協會綜合頻道)" tvg-logo="https://epg.112114.xyz/logo/NHK総合 (日本放送協會綜合頻道).png" epg-url="http://diyp.112114.xyz",NHK総合 (日本放送協會綜合頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="テレビ朝日 (朝日電視台)" tvg-logo="https://epg.112114.xyz/logo/テレビ朝日 (朝日電視台).png" epg-url="http://diyp.112114.xyz",テレビ朝日 (朝日電視台)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="テレビ東京 (東京電視台)" tvg-logo="https://epg.112114.xyz/logo/テレビ東京 (東京電視台).png" epg-url="http://diyp.112114.xyz",テレビ東京 (東京電視台)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="日本テレビ (日本電視台)" tvg-logo="https://epg.112114.xyz/logo/日本テレビ (日本電視台).png" epg-url="http://diyp.112114.xyz",日本テレビ (日本電視台)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="フジテレビ (富士電視台)" tvg-logo="https://epg.112114.xyz/logo/フジテレビ (富士電視台).png" epg-url="http://diyp.112114.xyz",フジテレビ (富士電視台)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="チャンネル銀河 (銀河頻道)" tvg-logo="https://epg.112114.xyz/logo/チャンネル銀河 (銀河頻道).png" epg-url="http://diyp.112114.xyz",チャンネル銀河 (銀河頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="WOWOWプライム" tvg-logo="https://epg.112114.xyz/logo/WOWOWプライム.png" epg-url="http://diyp.112114.xyz",WOWOWプライム
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|综合" tvg-name="WOWOWライブ" tvg-logo="https://epg.112114.xyz/logo/WOWOWライブ.png" epg-url="http://diyp.112114.xyz",WOWOWライブ
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|教育" tvg-name="NHK E" tvg-logo="https://epg.112114.xyz/logo/NHK E.png" epg-url="http://diyp.112114.xyz",NHK E
+http://vthanh.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="日本|教育" tvg-name="NHK E (willfonk)" tvg-logo="https://epg.112114.xyz/logo/NHK E (willfonk).png" epg-url="http://diyp.112114.xyz",NHK E (willfonk)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|教育" tvg-name="NHK教育 (日本放送協會教育頻道)" tvg-logo="https://epg.112114.xyz/logo/NHK教育 (日本放送協會教育頻道).png" epg-url="http://diyp.112114.xyz",NHK教育 (日本放送協會教育頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|BS" tvg-name="NHK BS" tvg-logo="https://epg.112114.xyz/logo/NHK BS.png" epg-url="http://diyp.112114.xyz",NHK BS
+http://vthanh.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="日本|BS" tvg-name="BS11" tvg-logo="https://epg.112114.xyz/logo/BS11.png" epg-url="http://diyp.112114.xyz",BS11
+http://luong.utako.moe/bsntva11/index.m3u8
+#EXTINF:-1 group-title="日本|BS" tvg-name="NHK BS1" tvg-logo="https://epg.112114.xyz/logo/NHK BS1.png" epg-url="http://diyp.112114.xyz",NHK BS1
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|BS" tvg-name="BSテレ東 (東京電視台衛星電視頻道)" tvg-logo="https://epg.112114.xyz/logo/BSテレ東 (東京電視台衛星電視頻道).png" epg-url="http://diyp.112114.xyz",BSテレ東 (東京電視台衛星電視頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|动画" tvg-name="Animax" tvg-logo="https://epg.112114.xyz/logo/Animax.png" epg-url="http://diyp.112114.xyz",Animax
+http://vthanh.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="日本|动画" tvg-name="AT-X" tvg-logo="https://epg.112114.xyz/logo/AT-X.png" epg-url="http://diyp.112114.xyz",AT-X
+http://vthanh.utako.moe:8080/5ef84ce6-e7c1-4655-9ca4-97eb65215195.m3u8
+#EXTINF:-1 group-title="日本|动画" tvg-name="Animax (备用)" tvg-logo="https://epg.112114.xyz/logo/Animax (备用).png" epg-url="http://diyp.112114.xyz",Animax (备用)
+http://vthanh.utako.moe/4E656B6F_a/index.m3u8
+#EXTINF:-1 group-title="日本|动画" tvg-name="AT-X (备用)" tvg-logo="https://epg.112114.xyz/logo/AT-X (备用).png" epg-url="http://diyp.112114.xyz",AT-X (备用)
+http://vthanh.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="日本|动画" tvg-name="AT-X (备用2)" tvg-logo="https://epg.112114.xyz/logo/AT-X (备用2).png" epg-url="http://diyp.112114.xyz",AT-X (备用2)
+https://neetball.net/live/neet3.m3u8
+#EXTINF:-1 group-title="日本|动画" tvg-name="BSアニマックス (索尼動畫日本衛星頻道)" tvg-logo="https://epg.112114.xyz/logo/BSアニマックス (索尼動畫日本衛星頻道).png" epg-url="http://diyp.112114.xyz",BSアニマックス (索尼動畫日本衛星頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|BS,4K" tvg-name="NHK BSP4K" tvg-logo="https://epg.112114.xyz/logo/NHK BSP4K.png" epg-url="http://diyp.112114.xyz",NHK BSP4K
+http://luong.utako.moe/bsp4k_testsignal/index.m3u8
+#EXTINF:-1 group-title="日本|购物" tvg-name="QVC" tvg-logo="https://epg.112114.xyz/logo/QVC.png" epg-url="http://diyp.112114.xyz",QVC
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+#EXTINF:-1 group-title="日本|电影" tvg-name="Neco" tvg-logo="https://epg.112114.xyz/logo/Neco.png" epg-url="http://diyp.112114.xyz",Neco
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="Toei" tvg-logo="https://epg.112114.xyz/logo/Toei.png" epg-url="http://diyp.112114.xyz",Toei
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="映画・チャンネルNECO (日本電影專門頻道)" tvg-logo="https://epg.112114.xyz/logo/映画・チャンネルNECO (日本電影專門頻道).png" epg-url="http://diyp.112114.xyz",映画・チャンネルNECO (日本電影專門頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="東映チャンネル (東映頻道)" tvg-logo="https://epg.112114.xyz/logo/東映チャンネル (東映頻道).png" epg-url="http://diyp.112114.xyz",東映チャンネル (東映頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="日本映画専門チャンネル (日本電影頻道)" tvg-logo="https://epg.112114.xyz/logo/日本映画専門チャンネル (日本電影頻道).png" epg-url="http://diyp.112114.xyz",日本映画専門チャンネル (日本電影頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="チャンネルNECO (日活株式會社尼科頻道)" tvg-logo="https://epg.112114.xyz/logo/チャンネルNECO (日活株式會社尼科頻道).png" epg-url="http://diyp.112114.xyz",チャンネルNECO (日活株式會社尼科頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="ムービープラス (探索日本株式會社電影Plus頻道)" tvg-logo="https://epg.112114.xyz/logo/ムービープラス (探索日本株式會社電影Plus頻道).png" epg-url="http://diyp.112114.xyz",ムービープラス (探索日本株式會社電影Plus頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="WOWOWシネマ" tvg-logo="https://epg.112114.xyz/logo/WOWOWシネマ.png" epg-url="http://diyp.112114.xyz",WOWOWシネマ
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="スターチャンネル1" tvg-logo="https://epg.112114.xyz/logo/スターチャンネル1.png" epg-url="http://diyp.112114.xyz",スターチャンネル1
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="スターチャンネル2" tvg-logo="https://epg.112114.xyz/logo/スターチャンネル2.png" epg-url="http://diyp.112114.xyz",スターチャンネル2
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="スターチャンネル3" tvg-logo="https://epg.112114.xyz/logo/スターチャンネル3.png" epg-url="http://diyp.112114.xyz",スターチャンネル3
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="Star Channel 1" tvg-logo="https://epg.112114.xyz/logo/Star Channel 1.png" epg-url="http://diyp.112114.xyz",Star Channel 1
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="Star Channel 2" tvg-logo="https://epg.112114.xyz/logo/Star Channel 2.png" epg-url="http://diyp.112114.xyz",Star Channel 2
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="Star Channel 3" tvg-logo="https://epg.112114.xyz/logo/Star Channel 3.png" epg-url="http://diyp.112114.xyz",Star Channel 3
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="東映チャンネル" tvg-logo="https://epg.112114.xyz/logo/東映チャンネル.png" epg-url="http://diyp.112114.xyz",東映チャンネル
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="映画・チャンネルNECO" tvg-logo="https://epg.112114.xyz/logo/映画・チャンネルNECO.png" epg-url="http://diyp.112114.xyz",映画・チャンネルNECO
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|电影" tvg-name="ムービープラス" tvg-logo="https://epg.112114.xyz/logo/ムービープラス.png" epg-url="http://diyp.112114.xyz",ムービープラス
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf
+#EXTINF:-1 group-title="日本|新闻" tvg-name="日テレNEWS24 (日本電視台有線新聞台)" tvg-logo="https://epg.112114.xyz/logo/日テレNEWS24 (日本電視台有線新聞台).png" epg-url="http://diyp.112114.xyz",日テレNEWS24 (日本電視台有線新聞台)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|新闻" tvg-name="CNNj" tvg-logo="https://epg.112114.xyz/logo/CNNj.png" epg-url="http://diyp.112114.xyz",CNNj
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|体育" tvg-name="日テレジータス" tvg-logo="https://epg.112114.xyz/logo/日テレジータス.png" epg-url="http://diyp.112114.xyz",日テレジータス
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|体育" tvg-name="GAORA (株式會社每日放送頻道)" tvg-logo="https://epg.112114.xyz/logo/GAORA (株式會社每日放送頻道).png" epg-url="http://diyp.112114.xyz",GAORA (株式會社每日放送頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|体育" tvg-name="GAORA" tvg-logo="https://epg.112114.xyz/logo/GAORA.png" epg-url="http://diyp.112114.xyz",GAORA
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|体育" tvg-name="J SPORTS 1" tvg-logo="https://epg.112114.xyz/logo/J SPORTS 1.png" epg-url="http://diyp.112114.xyz",J SPORTS 1
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|体育" tvg-name="J SPORTS 2" tvg-logo="https://epg.112114.xyz/logo/J SPORTS 2.png" epg-url="http://diyp.112114.xyz",J SPORTS 2
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|体育" tvg-name="J SPORTS 3" tvg-logo="https://epg.112114.xyz/logo/J SPORTS 3.png" epg-url="http://diyp.112114.xyz",J SPORTS 3
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|体育" tvg-name="J SPORTS 4" tvg-logo="https://epg.112114.xyz/logo/J SPORTS 4.png" epg-url="http://diyp.112114.xyz",J SPORTS 4
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|体育" tvg-name="ゴルフネットワーク" tvg-logo="https://epg.112114.xyz/logo/ゴルフネットワーク.png" epg-url="http://diyp.112114.xyz",ゴルフネットワーク
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|体育" tvg-name="スカイA (朝日放送天空A頻道)" tvg-logo="https://epg.112114.xyz/logo/スカイA (朝日放送天空A頻道).png" epg-url="http://diyp.112114.xyz",スカイA (朝日放送天空A頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|体育" tvg-name="スカイ・A" tvg-logo="https://epg.112114.xyz/logo/スカイ・A.png" epg-url="http://diyp.112114.xyz",スカイ・A
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|体育" tvg-name="GAORA (備用)" tvg-logo="https://epg.112114.xyz/logo/GAORA (備用).png" epg-url="http://diyp.112114.xyz",GAORA (備用)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|剧集" tvg-name="スーパー！ドラマTV (超級！戲劇電視)" tvg-logo="https://epg.112114.xyz/logo/スーパー！ドラマTV (超級！戲劇電視).png" epg-url="http://diyp.112114.xyz",スーパー！ドラマTV (超級！戲劇電視)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|剧集" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" epg-url="http://diyp.112114.xyz",AXN
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS311&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|剧集" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" epg-url="http://diyp.112114.xyz",FOX
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|剧集" tvg-name="ファミリー劇場 (家庭劇場頻道)" tvg-logo="https://epg.112114.xyz/logo/ファミリー劇場 (家庭劇場頻道).png" epg-url="http://diyp.112114.xyz",ファミリー劇場 (家庭劇場頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|剧集" tvg-name="ホームドラマチャンネル (松竹放送株式會社電視劇頻道)" tvg-logo="https://epg.112114.xyz/logo/ホームドラマチャンネル (松竹放送株式會社電視劇頻道).png" epg-url="http://diyp.112114.xyz",ホームドラマチャンネル (松竹放送株式會社電視劇頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|剧集" tvg-name="時代劇専門チャンネル (日本電影放送株式會社時代劇專業頻道)" tvg-logo="https://epg.112114.xyz/logo/時代劇専門チャンネル (日本電影放送株式會社時代劇專業頻道).png" epg-url="http://diyp.112114.xyz",時代劇専門チャンネル (日本電影放送株式會社時代劇專業頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|剧集" tvg-name="スーパー!ドラマTV" tvg-logo="https://epg.112114.xyz/logo/スーパー!ドラマTV.png" epg-url="http://diyp.112114.xyz",スーパー!ドラマTV
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|剧集" tvg-name="衛星劇場" tvg-logo="https://epg.112114.xyz/logo/衛星劇場.png" epg-url="http://diyp.112114.xyz",衛星劇場
+http://code.vthanhtivi.pw/getlink/jptv1/FcJRBrNCLHjS9wKtD2rz7g==/playlist.m3u8
+#EXTINF:-1 group-title="日本|音乐" tvg-name="エムオン！" tvg-logo="https://epg.112114.xyz/logo/エムオン！.png" epg-url="http://diyp.112114.xyz",エムオン！
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|音乐" tvg-name="歌謡ポップスチャンネル (Kayo Pops)" tvg-logo="https://epg.112114.xyz/logo/歌謡ポップスチャンネル (Kayo Pops).png" epg-url="http://diyp.112114.xyz",歌謡ポップスチャンネル (Kayo Pops)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|娱乐" tvg-name="女性ch/LaLa" tvg-logo="https://epg.112114.xyz/logo/女性ch/LaLa.png" epg-url="http://diyp.112114.xyz",女性ch/LaLa
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|娱乐" tvg-name="釣りビジョン (釣魚視覺頻道)" tvg-logo="https://epg.112114.xyz/logo/釣りビジョン (釣魚視覺頻道).png" epg-url="http://diyp.112114.xyz",釣りビジョン (釣魚視覺頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|娱乐" tvg-name="LaLaTV (探索日本株式會社啦啦電視台)" tvg-logo="https://epg.112114.xyz/logo/LaLaTV (探索日本株式會社啦啦電視台).png" epg-url="http://diyp.112114.xyz",LaLaTV (探索日本株式會社啦啦電視台)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|棋类" tvg-name="囲碁・将棋チャンネル (圍棋/將棋頻道)" tvg-logo="https://epg.112114.xyz/logo/囲碁・将棋チャンネル (圍棋/將棋頻道).png" epg-url="http://diyp.112114.xyz",囲碁・将棋チャンネル (圍棋/將棋頻道)
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="日本|儿童" tvg-name="キッズステーション" tvg-logo="https://epg.112114.xyz/logo/キッズステーション.png" epg-url="http://diyp.112114.xyz",キッズステーション
+https://stream02.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
